@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91ce0dd2-321a-449c-b5b4-e5d6b9436666" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38G4Ohmi9LeqYhsao1t5pECzZBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.q0_input_templete.executor": "Run",
+    "Application.q10_isPrime.executor": "Run",
+    "Application.q11_count_prime_till_N.executor": "Run",
+    "Application.q12_gcd_of_2_nos.executor": "Run",
+    "Application.q13_lcm_of_2_nos.executor": "Run",
+    "Application.q14_print_all_primes_till_N.executor": "Run",
+    "Application.q15_prime_factorisation_of_a_no.executor": "Run",
+    "Application.q16_countPrimesInRange.executor": "Run",
+    "Application.q16_prime_factorisation_of_a_no.executor": "Run",
+    "Application.q1_count_all_digits_of_a_number.executor": "Run",
+    "Application.q2_count_no_of_odd_digits_in_a_number.executor": "Run",
+    "Application.q3_reverse_a_number.executor": "Run",
+    "Application.q4_largest_digit_in_a_number.executor": "Run",
+    "Application.q4_palindrome_number.executor": "Run",
+    "Application.q5_largest_digit_in_a_number.executor": "Run",
+    "Application.q6_divisors_of_a_number.executor": "Run",
+    "Application.q7_factorial_of_number.executor": "Run",
+    "Application.q8_isArmstrong.executor": "Run",
+    "Application.q9_isPerfect_Number.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "23",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ce0dd2-321a-449c-b5b4-e5d6b9436666" name="Changes" comment="" />
+      <created>1768412544783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768412544783</updated>
+    </task>
+    <servers />
+  </component>
+</project>
