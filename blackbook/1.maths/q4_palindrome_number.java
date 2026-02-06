@@ -10,7 +10,7 @@ public class q4_palindrome_number {
     }
     public static boolean isPalindrome(int n){
         int temp = n;
-        int rev =0;
+        int rev = 0;
         while(n>0){
             int digit = n % 10;
             rev = rev * 10 + digit;

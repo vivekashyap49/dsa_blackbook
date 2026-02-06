@@ -1,7 +1,6 @@
 public class q42_KadanesAlgorithm {
 
     public static void main(String[] args) {
-
         int[] nums1 = {2, 3, 5, -2, 7, -4};
         System.out.println(maxSubArray(nums1)); // 15
 

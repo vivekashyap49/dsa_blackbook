@@ -1,9 +1,7 @@
 import java.util.Arrays;
 
 public class q38_RotateMatrix90degree {
-
     public static void main(String[] args) {
-
         int[][] matrix = {
                 {1, 2, 3},
                 {4, 5, 6},
@@ -19,9 +17,7 @@ public class q38_RotateMatrix90degree {
     }
 
     public static void rotate(int[][] matrix) {
-
         int n = matrix.length;
-
         // Step 1: Transpose the matrix
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
@@ -30,7 +26,6 @@ public class q38_RotateMatrix90degree {
                 matrix[j][i] = temp;
             }
         }
-
         // Step 2: Reverse each row
         for (int i = 0; i < n; i++) {
             int left = 0;
